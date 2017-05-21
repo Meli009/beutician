@@ -1,0 +1,22 @@
+.welcome {
+    background-color: #efebe9;
+    opacity: 0.8;
+    background-position: inherit;
+}
+
+.welcome h2 {
+    color: #6d4c41;
+    font-weight: bold;
+    font-size: 32px;
+}
+.welcome p {
+    color: #6d4c41;
+    font-weight: bold;
+    font-size: larger;
+}
+label {
+    color: #6d4c41;
+    background-color: #efebe9;
+    opacity: 0.9;
+    font-size: 1.5em;
+}
