@@ -3,9 +3,9 @@ app.directive('menu', function () {
 
         scope.left = [
             {name: "Főoldal", url:"index"},
-            {name: "Szolgáltatások", url:"prices"},
-            {name: "Beosztás", url:"calendar"},
-            {name: "Tanácsadás", url:"form"}
+            {name: "Szolgáltatások", url:"#/prices"},
+            {name: "Beosztás", url:"#/calendar"},
+            {name: "Tanácsadás", url:"#/form"}
         ]
     }
     return {
