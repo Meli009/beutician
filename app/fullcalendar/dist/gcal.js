@@ -3,7 +3,7 @@
  * Docs & License: https://fullcalendar.io/
  * (c) 2017 Adam Shaw
  */
- 
+
 (function(factory) {
 	if (typeof define === 'function' && define.amd) {
 		define([ 'jquery' ], factory);
@@ -73,7 +73,7 @@ FC.sourceFetchers.push(function(sourceOptions, start, end, timezone) {
 
 function transformOptions(sourceOptions, start, end, timezone, calendar) {
 	var url = API_BASE + '/' + encodeURIComponent(sourceOptions.googleCalendarId) + '/events?callback=?'; // jsonp
-	var apiKey = sourceOptions.googleCalendarApiKey || calendar.opt('googleCalendarApiKey');
+	var apiKey = "AIzaSyAzOw37RHfKy_tMF6jabOjxy30dW5i8se8" || calendar.opt('googleCalendarApiKey');
 	var success = sourceOptions.success;
 	var data;
 	var timezoneArg; // populated when a specific timezone. escaped to Google's liking

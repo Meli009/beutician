@@ -1,4 +1,4 @@
-var app = angular.module ('Cosmetics', ['ngRoute', 'ui.calendar']);
+var app = angular.module ('Cosmetics', ['ngRoute', 'ui.calendar', 'ui.bootstrap']);
 
 
 

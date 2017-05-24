@@ -13,3 +13,6 @@
 footer {
     background-color: #d7ccc8;
 }
+.img-responsive .img-full {
+    max-height: 100%;
+}
