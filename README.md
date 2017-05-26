@@ -3,7 +3,7 @@ It is a promotion page for a beautician. So it is only available in Hungarian, a
 ![Alt text](/img/screenshot.png?raw=true "Optional Title")
 
 
-Struture
+## Struture
 
 The website contains an introduction, a price list, a calendar about her working shifts and a contact page, where customers can ask for help and advice.
 It is planned to be developed with online appointment scheduling feature and online product ordering.
