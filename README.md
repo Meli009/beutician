@@ -1,6 +1,6 @@
 # Ignáth Edit Kozmetika
 It is a promotion page for a beautician. So it is only available in Hungarian, as she works in a very small city in Hungary. So probably no translation will be needed.
-![Alt text](/relative/img/screenshot.png?raw=true "Optional Title")
+![Alt text](/img/screenshot.png?raw=true "Optional Title")
 
 
 Struture
