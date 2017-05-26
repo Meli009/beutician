@@ -1,28 +1,16 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Business Casual](http://startbootstrap.com/template-overviews/business-casual/)
+# Ignáth Edit Kozmetika
+It is a promotion page for a beautician. So it is only available in Hungarian, as she works in a very small city in Hungary. So probably no translation will be needed.
+![Alt text](/relative/img/screenshot.png?raw=true "Optional Title")
 
-[Business Casual](http://startbootstrap.com/template-overviews/business-casual/) is a multipurpose website theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
 
-## Getting Started
+Struture
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/business-casual/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-business-casual.git`
-* Fork the repo
-* Your must enter your database information and your email in form-handler.php - if you don't have a database, that's fine.  Edit contact.html to direct the form to form-handler-nodb.php and emails will be sent with no database writes.
+The website contains an introduction, a price list, a calendar about her working shifts and a contact page, where customers can ask for help and advice.
+It is planned to be developed with online appointment scheduling feature and online product ordering.
 
-## Bugs and Issues
+The demo page can be reached under the following link:
+http://ignatheditkozmetika.atwebpages.com/
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-business-casual/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/business-casual/).
+## About me
 
-## Creator
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/gh-pages/LICENSE) license.
+My name is Melinda Bacsó, I started some years ago, using the help of online coding schools.
